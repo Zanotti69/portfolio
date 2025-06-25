@@ -193,7 +193,7 @@ const testimonials = [
         testimonial:
             "Hissam showed real initiative and technical strength during our cyber projects. A promising talent.",
         name: "Omar Zaman",
-        designation: "Head of Cybersecurity",
+        designation: "Cybersecurity Consultant",
         company: "VaporVM",
         image: "https://randomuser.me/api/portraits/men/32.jpg",
     },
